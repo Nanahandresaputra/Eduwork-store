@@ -1,4 +1,4 @@
-# Eduwork store
+# Food store
 Aplikasi ini merupakan implementasi e commerce menggunakan mern stack, fitur
 yang ada di aplikasi tersebut meliputi daftar produk, keranjang belanja,
 pesanan/order, fitur login dan logout juga telah ditambahkan agar pesanan
@@ -6,6 +6,10 @@ sesuai user. Untuk beberapa fitur lainnya masih dalam tahap pengembangan
 seperti registrasi dll. Untuk login bisa menggunakan akun yang ada dibawah:
    > email : test@email.com.
    > password: test.
+   
+## Demo aplikasi
+
+![](https://github.com/Nanahandresaputra/Eduwork-store/blob/main/Food%20store%20demo.gif)
    
 ## Cara penggunaan di localhost
 Clone repositori github ini
